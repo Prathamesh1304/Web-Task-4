@@ -70,12 +70,11 @@ It’s an individual frontend project. I've used HTML, CSS and JavaScript to bui
 
 If you want to contact me, you can reach me through below handles. <br />
 
-[![linkedin](https://img.shields.io/badge/Roshan_Patro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t-roshan-kumar-patro/)
-[![GitHub](https://img.shields.io/badge/Roshan_Patro-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Roshan-Patro)
 
 
 
-© 2022 T Roshan Kumar Patro
+
+© 2024 Prathamesh Pandhare
 
 
 
